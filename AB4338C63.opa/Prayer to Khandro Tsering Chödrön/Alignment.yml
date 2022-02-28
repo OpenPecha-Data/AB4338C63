@@ -1,0 +1,19 @@
+segment_sources:
+  P51F1864A:
+    type: origin_type
+    relation: translation
+    language: en
+  P4264B2BD:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  dbce9dfac3fd47f4aaf1289ff9bafb7f:
+    P51F1864A: 1beba7728d984545aa5995baa01a6f5f
+    P4264B2BD: 815fab8ad19d414caa6e374242c8dc38
+  4d98affe4c164c9d89f1d5555478a595:
+    P51F1864A: aede30b5b7e94270a9d887510f0c5cd9
+    P4264B2BD: f9693a41965543d6834b30ceb1623d63
+  35af2b7f4bb54444a3f500524bd380e1:
+    P51F1864A: c78ddb718236443c83dc11e99a48de6c
+    P4264B2BD: 66b996b8869a43fb8dfaf0bf6a4c858f
